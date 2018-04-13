@@ -1,2 +1,2 @@
 # tmux_conf
-Tmux config
+Expecting file to be in ~/.tmux.conf
